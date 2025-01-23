@@ -14,17 +14,11 @@ In **JotunnSlayer: Hordes of Hel**, players take on the role of a fierce warrior
 - **Epic Boss Fights:** Test your strength against towering, fearsome bosses in challenging and rewarding battles.  
 - **Progression System:** Upgrade your weapons, unlock powerful abilities, and become the ultimate JotunnSlayer.  
 
-![Screenshot 1](https://via.placeholder.com/800x450?text=JotunnSlayer+Combat)  
-*Engage in brutal combat against Hel’s minions.*  
+![image](https://github.com/user-attachments/assets/dbe9e522-2e86-442c-9c16-995590f5b3d5)
+![image](https://github.com/user-attachments/assets/ea3bbdbe-15b3-4bc5-a399-89443dd305e7)
+![image](https://github.com/user-attachments/assets/3d5d3bde-86ac-42b6-894c-d0fe34515891)
+![image](https://github.com/user-attachments/assets/2d895638-cfdd-4035-9e6a-c0f3d3caf526)
 
-![Screenshot 2](https://via.placeholder.com/800x450?text=JotunnSlayer+Exploration)  
-*Explore breathtaking Norse-inspired landscapes.*  
-
-![Screenshot 3](https://via.placeholder.com/800x450?text=JotunnSlayer+Boss+Battle)  
-*Prepare for epic boss battles against monstrous foes.*  
-
-![Screenshot 4](https://via.placeholder.com/800x450?text=JotunnSlayer+Upgrades)  
-*Upgrade your character and dominate the battlefield.*
 
 ---
 
